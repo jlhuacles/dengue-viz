@@ -11,10 +11,16 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 
 import time
+import os
 import pathlib
-import csv
-import pickle
 import pandas
+from datetime import datetime
+
+
+dt = datetime.now()
+str_time = dt.strftime("%d-%m-%Y")
+
+
 
 def iniciar_chrome():
     ruta = ChromeDriverManager(path='./chromedriver').install()
@@ -84,13 +90,28 @@ def cocinarpage():
         return "Error"
     buttonDownload.click()
 
-    
+
+def rename_and_date():
+    dt = datetime.now()
+    str_time = dt.strftime("%d-%m-%Y-%H-%M-%S")
+    os.rename("./archivos/indicadores_dengue_diario_distrito.xlsx", f"./archivos/dengue-diario-{str_time}.xlsx")   
     
 
 if __name__ == '__main__':
     driver = iniciar_chrome()
     res = cocinarpage()
+    time.sleep(10)
+
+    # try:
+    #     file = open("./archivos/indicadores_dengue_diario_distrito.xlsx")
+    #     file.close()
+    # except FileNotFoundError:
+    #     print("No se pudo abrir el archivo")
+    #     exit()
+    # finally:
+    #     rename_and_date()
 
     input("Pulsa enter para salir")
     driver.quit()
+    
     
