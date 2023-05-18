@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
-
+import chromedriver_autoinstaller
 import time
 import os
 import pathlib
@@ -23,7 +23,8 @@ str_time = dt.strftime("%d-%m-%Y")
 
 
 def iniciar_chrome():
-    ruta = ChromeDriverManager(path='./chromedriver').install()
+    # ruta = ChromeDriverManager(path='./chromedriver').install()
+    chromedriver_autoinstaller.install()
     thisPath = str(pathlib.Path().resolve())
     options = Options()
     options.add_argument("--window-size=1920,1080")  # tamaño de ventana
@@ -66,8 +67,8 @@ def iniciar_chrome():
     
     options.add_experimental_option('prefs', prefs)
 
-    s = Service(ruta)
-    driver = webdriver.Chrome(service = s, options = options)
+    # s = Service(ruta)
+    driver = webdriver.Chrome(options = options)
     driver.set_window_position(0,0)
     return driver
 
