@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '19 12,14,17,22 * * *'
+    - cron: '33 12,14,17,22 * * *'
 
 jobs:
   scraper-dengue:
@@ -16,10 +16,13 @@ jobs:
         run: |
           sudo apt install google-chrome-stable
           sudo apt-get install firefox
-      - name: Install chromedriver and all
+      - name: Check the console scripts interface
         run: |
-          seleniumbase install chromedriver
-          seleniumbase install geckodriver
+        seleniumbase
+        sbase
+      - name: Install chromedriver
+        run: |
+        seleniumbase install chromedriver
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
