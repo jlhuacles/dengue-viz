@@ -59,7 +59,7 @@ def iniciar_chrome():
         # notifations 1= permitir 2 = no permitir 0=preguntar
         'profile.default_content_setting_values.notifications': 2,
         # definir idiomas del navegador
-        'intl.accept_languages': ['es-ES', 'es'],
+
         # Para evitar que chrome nos pregunte si queremos guardar la clave
         'credentials_enable_service': False,
         "download.default_directory" : f'{thisPath}\\archivos'
