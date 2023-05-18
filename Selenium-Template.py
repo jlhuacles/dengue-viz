@@ -32,7 +32,11 @@ chrome_options = webdriver.ChromeOptions()
 options = [
   # Define window size here
    "--window-size=1200,1200",
-    "--ignore-certificate-errors"
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--disable-web-security",
+    "--no-proxy-server",
+    "--disable-blink-features=AutomationControlled"
  
     #"--headless",
     #"--disable-gpu",
@@ -80,8 +84,7 @@ def cocinarpage():
 driver = webdriver.Chrome(options = chrome_options)
 
 driver.get('https://www.dge.gob.pe/sala-situacional-dengue/diaria/')
-print(driver.title)
 cocinarpage()
-
+time.sleep(20)
 driver.quit()
 
