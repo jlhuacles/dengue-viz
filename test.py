@@ -111,7 +111,7 @@ if __name__ == '__main__':
     # finally:
     #     rename_and_date()
 
-    input("Pulsa enter para salir")
+  
     driver.quit()
     
     
