@@ -18,11 +18,11 @@ jobs:
           sudo apt-get install firefox
       - name: Check the console scripts interface
         run: |
-        seleniumbase
-        sbase
+          seleniumbase
+          sbase
       - name: Install chromedriver
         run: |
-        seleniumbase install chromedriver
+          seleniumbase install chromedriver
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
