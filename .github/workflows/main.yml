@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '15 12,14,17,22 * * *'
+    - cron: '19 12,14,17,22 * * *'
 
 jobs:
   scraper-dengue:
@@ -13,10 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       - name: Install Chrome and Firefox
-        uses: |
+        run: |
           sudo apt install google-chrome-stable
           sudo apt-get install firefox
       - name: Install chromedriver and all
+        run: |
           seleniumbase install chromedriver
           seleniumbase install geckodriver
       - name: Set up Python
