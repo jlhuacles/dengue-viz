@@ -37,7 +37,8 @@ options = [
     "--disable-web-security",
     "--no-proxy-server",
     "--disable-blink-features=AutomationControlled",
-    "--disable-dev-shm-usage"
+    "--disable-dev-shm-usage",
+    "--headless"
  
     #"--headless",
     #"--disable-gpu",
