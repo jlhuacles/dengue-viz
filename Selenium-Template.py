@@ -38,7 +38,11 @@ options = [
     "--no-proxy-server",
     "--disable-blink-features=AutomationControlled",
     "--disable-dev-shm-usage",
-    "--headless"
+    "--headless",
+    ################################
+    "--no-sandbox",
+    "--dns-prefetch-disable",
+    "--disable-gpu"
  
     #"--headless",
     #"--disable-gpu",
