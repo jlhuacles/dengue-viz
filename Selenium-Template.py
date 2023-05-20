@@ -42,7 +42,8 @@ options = [
     ################################
     "--no-sandbox",
     "--dns-prefetch-disable",
-    "--disable-infobars"
+    "--disable-infobars",
+    "--disable-gpu"
  
     #"--headless",
     #"--disable-gpu",
