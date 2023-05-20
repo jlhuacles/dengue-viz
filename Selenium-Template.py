@@ -69,7 +69,7 @@ chrome_options.add_experimental_option('prefs', prefs)
 def cocinarpage():
     driver.get('https://www.dge.gob.pe/sala-situacional-dengue/diaria/')
     time.sleep(3)
-    wait = WebDriverWait(driver, 500)
+    wait = WebDriverWait(driver, 720)
     
     try:
         elemento = wait.until(EC.element_to_be_clickable((By.XPATH,"//a[contains(text(),'Por distrito')]")))
