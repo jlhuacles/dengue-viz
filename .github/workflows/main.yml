@@ -36,7 +36,7 @@ jobs:
           git add -A
           git commit --allow-empty -m "update data daily dengue"
       - name: push my changes to github
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
           branch : main
