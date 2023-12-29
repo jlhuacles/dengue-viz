@@ -1,159 +1,159 @@
 codigo,from,to,version,fecha,tipo_relacion,descripcion_relacion,fuente,formato-fuente,link
-R1,E1,1,Año 1 N° 1,8/02/1876,Directora,,El Recreo (1890),APA,
-R2,E1,2,Año 1 N° 1,8/02/1876,Director,,,,
-R3,E1,3,Año 1 N° 1,8/02/1876,Secretario,,,,
-R4,E1,4,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R5,E1,5,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R6,E1,6,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R7,E1,7,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R8,E1,8,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R9,E1,9,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R10,E1,10,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R11,E1,11,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R12,E1,12,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R13,E1,13,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R14,E1,14,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R15,E1,15,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R16,E1,16,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R17,E1,17,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R18,E1,18,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R19,E1,19,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R20,E1,20,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R21,E1,21,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R22,E1,22,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R23,E1,23,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R24,E1,24,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R25,E1,25,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R26,E1,26,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R27,E1,27,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R28,E1,28,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R29,E1,29,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R30,E1,30,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R31,E1,31,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R32,E1,32,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R33,E1,33,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R34,E1,34,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R35,E1,35,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R36,E1,36,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R37,E1,37,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R38,E1,38,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R39,E1,39,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R40,E1,40,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R41,E1,41,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R42,E1,42,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R43,E1,43,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R44,E1,44,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R45,E1,45,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R46,E1,46,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R47,E1,47,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R48,E1,48,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R49,E1,49,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R50,E1,50,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R51,E1,51,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R52,E1,52,Año 1 N° 1,8/02/1876,Colaborador,,,,
-R53,E1,E2,Año 1 N° 1,8/02/1876,Imprenta,,,,
-R54,E2,53,Año 1 N° 1,,Dueño,,,,
-R55,E4,1,Año 1 N° 1,,Colaborador,,,,
-R56,E1,54,Año 1 N° 2,18/02/1876,Republicado,Republicación post morten,,,
-R57,E1,55,Año 1 N° 2,18/02/1876,Colaborador,,,,
-R58,E1,56,Año 1 N° 2,18/02/1876,Colaborador,,,,
-R59,E1,57,Año 1 N° 3,28/02/1876,Colaborador,,,,
-R60,E1,58,Año 1 N° 3,28/02/1876,Colaborador,,,,
-R61,E1,59,Año 1 N° 3,28/02/1876,Republicado,Republicado por discurso,,,
-R62,E1,60,Año 1 N° 4,15/03/1876,Colaborador,,,,
-R63,E1,61,Año 1 N° 5,27/03/1876,Colaborador,,,,
-R64,E1,62,Año 1 N° 6,06/04/1876,Republicado,Republicado de libro,Pagina 43,,
-R65,E17,161,,,Asistente,"América y sus mujeres, p. 146",,,
-R66,E17,21,,,Anfitriona,América y sus mujeres,,,
-R67,161,22,,,Amistad,"América y sus mujeres, p. 153",,,
-R68,161,21,,,Amistad,"América y sus mujeres, p.146",,,
-R69,E7,161,,,Colaborador extraordinario,"América y sus mujeres, p.153",,,
-R70,E7,162,,,Colaborador,"América y sus mujeres, p. 154",,,
-R71,E17,164,,,Colaborador,"América y sus mujeres, p. 156",,,
-R72,E17,163,,,Colaborador,"América y sus mujeres, p. 156",,,
-R73,163,164,,,Familia,Hermanos,,,
-R74,E22,164,,,Colaboradora,"América y sus mujeres, p. 156",,,
-R75,161,72,,,Mención,"América y sus mujeres, p. 157",,,
-R76,161,165,,,Mención,"América y sus mujeres, p. 157",,,
-R77,161,61,,,Mención,"América y sus mujeres, p. 158",,,
-R78,161,166,,,Trato,"América y  sus mujeres, p. 160",,,
-R79,161,1,,,Mención,"América y sus mujeres, p. 162",,,
-R80,161,167,,,Mención,"América y sus mujeres, p. 162",,,
-R81,161,162,,,Mención,"América y sus mujeres, p. 163",,,
-R82,161,168,,,Mención,"América y sus mujeres, p. 163",,,
-R83,168,178,,,Familia,Hermanos,,,
-R84,161,169,,,Mención,"América y sus mujeres, p.164",,,
-R85,161,170,,,Mención,"América y sus mujeres, p.164",,,
-R86,161,171,,,Mención,"América y sus mujeres, p.164",,,
-R87,161,172,,,Mención,"América y sus mujeres, p.164",,,
-R88,161,173,,,Mención,"América y sus mujeres, p.164",,,
-R89,161,174,,,Mención,"América y sus mujeres, p.164",,,
-R90,161,175,,,Mención,"América y sus mujeres, p.164",,,
-R91,161,176,,,Trato,"América y sus mujeres, p.166",,,
-R92,161,177,,,Mención,"América y sus mujeres, p.167",,,
-R93,161,178,,,Mención,"América y sus mujeres, p.167",,,
-R94,161,179,,,Mención,"América y sus mujeres, p.167",,,
-R95,161,180,,,Mención,"América y sus mujeres, p.168",,,
-R96,E16,181,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R97,E16,182,,02/03/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R98,E16,183,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R99,E16,184,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R100,E16,185,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R101,E16,186,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R102,E16,187,,30/01/1891,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R103,E16,188,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R104,E16,189,,02/03/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R105,E16,190,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R106,E16,191,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R107,E16,192,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R108,E16,193,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R109,E16,194,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R110,E16,195,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R111,E16,196,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R112,E16,197,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R113,E16,198,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R114,E16,199,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R115,E16,22,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R116,E16,26,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R117,E16,167,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R118,E16,1,,12/11/1887,Anfitriona,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
-R119,E17,21,,19/07/1876,Anfitriona,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R120,E17,162,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R121,E17,163,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R122,E17,171,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R123,E17,172,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R124,E17,173,,09/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R125,E17,164,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R126,E17,22,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R127,E17,200,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R128,E17,174,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R129,E17,201,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R130,E17,187,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R131,E17,202,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R132,E17,166,,26/07/1876,Participación por carta,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R133,E17,203,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R134,E17,178,,26/07/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R135,E17,204,,26/07/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R136,E17,196,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R137,E17,25,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R138,E17,205,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R139,E17,206,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R140,E17,207,,02/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R141,E17,177,,09/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R142,E17,209,,09/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R143,E17,210,,09/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R144,E17,170,,16/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R145,E17,211,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R146,E17,212,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R147,E17,213,,26/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R148,E17,214,,26/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R149,E17,190,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R150,E17,215,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R151,E17,216,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R152,E17,217,,06/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R153,E17,218,,13/09/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R154,E17,219,,13/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R155,E17,220,,13/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R156,E17,221,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R157,E17,208,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
-R158,E17,222,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R1,215,1,Año 1 N° 1,8/02/1876,Directora,,El Recreo (1890),APA,
+R2,215,2,Año 1 N° 1,8/02/1876,Director,,,,
+R3,215,3,Año 1 N° 1,8/02/1876,Secretario,,,,
+R4,215,4,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R5,215,5,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R6,215,6,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R7,215,7,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R8,215,8,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R9,215,9,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R10,215,10,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R11,215,11,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R12,215,12,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R13,215,13,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R14,215,14,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R15,215,15,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R16,215,16,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R17,215,17,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R18,215,18,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R19,215,19,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R20,215,20,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R21,215,21,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R22,215,22,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R23,215,23,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R24,215,24,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R25,215,25,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R26,215,26,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R27,215,27,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R28,215,28,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R29,215,29,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R30,215,30,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R31,215,31,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R32,215,32,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R33,215,33,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R34,215,34,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R35,215,35,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R36,215,36,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R37,215,37,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R38,215,38,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R39,215,39,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R40,215,40,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R41,215,41,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R42,215,42,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R43,215,43,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R44,215,44,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R45,215,45,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R46,215,46,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R47,215,47,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R48,215,48,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R49,215,49,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R50,215,50,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R51,215,51,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R52,215,52,Año 1 N° 1,8/02/1876,Colaborador,,,,
+R53,215,216,Año 1 N° 1,8/02/1876,Imprenta,,,,
+R54,216,53,Año 1 N° 1,,Dueño,,,,
+R55,218,1,Año 1 N° 1,,Colaborador,,,,
+R56,215,54,Año 1 N° 2,18/02/1876,Republicado,Republicación post morten,,,
+R57,215,55,Año 1 N° 2,18/02/1876,Colaborador,,,,
+R58,215,56,Año 1 N° 2,18/02/1876,Colaborador,,,,
+R59,215,57,Año 1 N° 3,28/02/1876,Colaborador,,,,
+R60,215,58,Año 1 N° 3,28/02/1876,Colaborador,,,,
+R61,215,59,Año 1 N° 3,28/02/1876,Republicado,Republicado por discurso,,,
+R62,215,60,Año 1 N° 4,15/03/1876,Colaborador,,,,
+R63,215,61,Año 1 N° 5,27/03/1876,Colaborador,,,,
+R64,215,62,Año 1 N° 6,06/04/1876,Republicado,Republicado de libro,Pagina 43,,
+R65,230,153,,,Asistente,"América y sus mujeres, p. 146",,,
+R66,230,21,,,Anfitriona,América y sus mujeres,,,
+R67,153,22,,,Amistad,"América y sus mujeres, p. 153",,,
+R68,153,21,,,Amistad,"América y sus mujeres, p.146",,,
+R69,220,153,,,Colaborador extraordinario,"América y sus mujeres, p.153",,,
+R70,220,154,,,Colaborador,"América y sus mujeres, p. 154",,,
+R71,230,156,,,Colaborador,"América y sus mujeres, p. 156",,,
+R72,230,155,,,Colaborador,"América y sus mujeres, p. 156",,,
+R73,155,156,,,Familia,Hermanos,,,
+R74,235,156,,,Colaboradora,"América y sus mujeres, p. 156",,,
+R75,153,72,,,Mención,"América y sus mujeres, p. 157",,,
+R76,153,157,,,Mención,"América y sus mujeres, p. 157",,,
+R77,153,61,,,Mención,"América y sus mujeres, p. 158",,,
+R78,153,158,,,Trato,"América y  sus mujeres, p. 160",,,
+R79,153,1,,,Mención,"América y sus mujeres, p. 162",,,
+R80,153,159,,,Mención,"América y sus mujeres, p. 162",,,
+R81,153,154,,,Mención,"América y sus mujeres, p. 163",,,
+R82,153,160,,,Mención,"América y sus mujeres, p. 163",,,
+R83,160,170,,,Familia,Hermanos,,,
+R84,153,161,,,Mención,"América y sus mujeres, p.164",,,
+R85,153,162,,,Mención,"América y sus mujeres, p.164",,,
+R86,153,163,,,Mención,"América y sus mujeres, p.164",,,
+R87,153,164,,,Mención,"América y sus mujeres, p.164",,,
+R88,153,165,,,Mención,"América y sus mujeres, p.164",,,
+R89,153,166,,,Mención,"América y sus mujeres, p.164",,,
+R90,153,167,,,Mención,"América y sus mujeres, p.164",,,
+R91,153,168,,,Trato,"América y sus mujeres, p.166",,,
+R92,153,169,,,Mención,"América y sus mujeres, p.167",,,
+R93,153,170,,,Mención,"América y sus mujeres, p.167",,,
+R94,153,171,,,Mención,"América y sus mujeres, p.167",,,
+R95,153,172,,,Mención,"América y sus mujeres, p.168",,,
+R96,229,173,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R97,229,174,,02/03/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R98,229,175,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R99,229,176,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R100,229,177,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R101,229,178,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R102,229,179,,30/01/1891,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R103,229,180,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R104,229,181,,02/03/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R105,229,182,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R106,229,183,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R107,229,184,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R108,229,185,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R109,229,186,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R110,229,187,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R111,229,188,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R112,229,189,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R113,229,190,,12/11/1887,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R114,229,191,,,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R115,229,22,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R116,229,26,,17/11/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R117,229,159,,02/06/1888,Asistente,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R118,229,1,,12/11/1887,Anfitriona,,Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017),,
+R119,230,21,,19/07/1876,Anfitriona,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R120,230,154,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R121,230,155,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R122,230,163,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R123,230,164,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R124,230,165,,09/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R125,230,156,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R126,230,22,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R127,230,192,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R128,230,166,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R129,230,193,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R130,230,179,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R131,230,194,,19/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R132,230,158,,26/07/1876,Participación por carta,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R133,230,195,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R134,230,170,,26/07/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R135,230,196,,26/07/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R136,230,188,,26/07/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R137,230,25,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R138,230,197,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R139,230,198,,02/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R140,230,199,,02/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R141,230,169,,09/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R142,230,201,,09/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R143,230,202,,09/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R144,230,162,,16/08/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R145,230,203,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R146,230,204,,16/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R147,230,205,,26/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R148,230,206,,26/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R149,230,182,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R150,230,207,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R151,230,208,,30/08/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R152,230,209,,06/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R153,230,210,,13/09/1876,Mención o trabajo leído,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R154,230,211,,13/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R155,230,212,,13/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R156,230,213,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R157,230,200,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
+R158,230,214,,21/09/1876,Asistente,,"Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti",,https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up 
