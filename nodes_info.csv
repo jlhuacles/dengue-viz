@@ -1,236 +1,327 @@
-id,Nombre,LugarNacimiento,FechaNacimiento,LugarMuerte,FechaDeMuerte,Sexo(M-F),observacion,descripcion
-1,Clorinda Matto de Turner,Cuzco,,,,F,,
-2,Abraham Vizcarra,,,,,M,,
-3,Daniel Mato,,,,,M,,
-4,Pío B Mesa,,,,,M,,
-5,Ricardo Villa,,,,,M,,
-6,Nestor Castro,,,,,M,,
-7,José Teodocio Rozas,,,,,M,,
-8,Emilio Luna,,,,,M,,
-9,Ramón Mato,,,,,M,,
-10,Mariano Mato,,,,,M,,
-11,Samuel Usandivaras,,,,,M,,
-12,Ricardo Davalos y Lisón,Lima,,,,M,,
-13,Isaac de Echave,,,,,M,,
-14,Juan Cancio Luna,,,,,M,,
-15,Melquiades Saldivar,,,,,M,,
-16,Ladislao Calderón,,,,,M,,
-17,Felipe S. Paredes,,,,,M,,
-18,Rafael Paredes,,,,,M,,
-19,Baltazar Valencia,,,,,M,,
-20,Domingo Medina,,,,,M,,
-21,Juan Manuela Gorriti,,,,,F,,
-22,Mercedes Cabello de Carbonera,,,,,F,,
-23,Alvina Escalante de Luna,,,,,F,,
-24,María Ángela Enríquez de Vega,,,,,F,http://tania-gutierrez-samanez.blogspot.com/2006/12/trinidad-enrquez-primera-universitaria.html,
-25,Ángela Carbonel,,,,,F,,
-26,Juana Rosa de Amézaga,,,,,F,,
-27,Trinidad María Enriquez,,,,,F,,
-28,Juana de Dios Galdo,,,,,F,,
-29,M. Delina Piérola,,,,,F,,
-30,Francisca Necochea,,,,,F,,
-31,M. Nieves Carrasco,,,,,F,,
-32,M. Manuela Farfán,,,,,F,,
-33,Felicitas Zavala,,,,,F,,
-34,Dolores*,,,,,F,,
-35,Carmen I. Valencia,,,,,F,,
-36,Domingo Cárdenas,,,,,M,,
-37,Mariano Medina,,,,,M,,
-38,Eduardo Romainville,,,,,M,,
-39,Abel A. Luna,,,,,M,,
-40,Fabian F. Alvarez,,,,,M,,
-41,Nicanor Cano,,,,,M,,
-42,David D. Yepez,,,,,M,,
-43,Jerónimo Zavala,,,,,M,,
-44,Isaac Medina,,,,,M,,
-45,José Olarte,,,,,M,,
-46,Agustín Castro,,,,,M,,
-47,Avelino Vizcarra,,,,,M,,
-48,Nicolás Escalante,,,,,M,,
-49,Daniel Olivera,,,,,M,,
-50,Teófilo Luna,,,,,M,,
-51,Arturo Yepez,,,,,M,,
-52,Martín Álvarez(hijo),,,,,M,,
-53,Manuel F. Minauro,,,,,M,,
-54,Francisco Miranda y Bengoa,España,,,,M,,
-55,Baldomere Cano,,,,,M,,
-56,Juan José Botero Ruiz,Colombia,,,,M,,
-57,Araminta*,,,,,F,,
-58,Hurias,,,,,M,,
-59,Manuel Antonio Zárate,,,,,M,,
-60,Dario M. Pera,,,,,M,,
-61,Ricardo Palma,,,,,M,,
-62,José de Castro y Serrano,,,,,M,,
-63,Coelho Netto,,,,,M,,
-64,Alberto J. Gache,,,,,M,,
-65,María Lucía,,,,,F,Esposa de Alberto J. Gache,
-66,Roberto J. Payró,,,,,M,,
-67,Carlos R. Tobar,,,,,M,,
-68,Francisco Sempere,,,,,M,,
-69,Francisco Cobos,,,,,M,Puente entre Clorinda y la sociedad madrileña,
-70,Faustino Rodriguez Sampero,,,,,M,,
-71,Jesús Pando y Valle,,,,,M,secretario general de la Unión Ibero-Americana de Madrid,
-72,Emilia Pardo Bazán,,,,,F,,
-73,Concepción Jimeno de Flaquer,,,,,F,"Prometió presentarle por carta a amigas escritoras de Francia e Italia a Clorinda (p. 45, El viaje de recreo)",
-74,Carmen de Burgos,,,,,F,,
-75,Concepción Aleixandre,,,,,F,"""escritora científica""",
-76,Carmen Rojo,,,,,F,"Directora de la Escuela Normal y ""escritora brillante""",
-77,Magdalena S. Fuentes,,,,,F,profesora normal y novelista,
-78,Melchora Herrero,,,,,F,"escritora de nota, profesora normal y de comercio",
-79,Carmen Blanco Trigueros,,,,,F,periodista de la redacción El Gobo,
-80,Consuelo Álvarez,,,,,F,periodista de la redacción El País,
-81,María Encarnación de la Brigada,,,,,F,Presidenta de la Asociación Huérfanos del Magisterio y profesora normal,
-82,Luis Morote,,,,,M,"Autor de Pasados por agua, Rebaño de almas , etc.",
-83,Carolina Soto,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-84,María del Pilar Contreras de Rodriguez,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-85,Salomé Nuñez Topete,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-86,Asunción Vila,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-87,Clementina Ragel,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-88,Blanca de los Ríos de Lampérez,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-89,Matilde G. del Real,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-90,María de Echarri,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-91,Concepción Saíz,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-92,Vizcondesa de Barrantes,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),
-93,Marquesa de Ayerbe,,,,,F,Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47),Presidenta del centro Ibero-Americano
-94,Marcos Pascual,,,,,M,Él recomendó a Clorinda  desde Buenos Aires a sus amigos Saturnino Alonso Arto y Antonia Castro,
-95,Saturnino Alonso Arto,,,,,M,,
-96,Antonia Castro,,,,,F,,
-97,Ángel Vega Enríquez,,,,,M,periodista peruano residente en Francia e hijo de amiga de Clorinda,
-98,Mr. Thynne,,,,,M,editor de la versión inglesa de Aves sin nido,
-99,mister E. M. Amphlett,,,,,M,vicedirector del diaro The Times,
-100,Ecleston Square,,,,,M,Se escribieron por carta en Inglaterra,
-101,miss Mary Possart,,,,,F,,
-102,miss Pitman,,,,,F,,
-103,Ándres Avelino Cáceres,,,,,M,Encuentro con Clorinda Matto en Francia e incitación para visitar Alemania,
-104,Monseñor Samper,,,,,M,Comitiva papal en Italia,
-105,Vincenzo Temístocles Moretti,,,,,M,"Amigo diarista de Italia, redactor de La Vita, Clorinda Matto publica su conferencia en ese diario",
-106,Matilde Serao,,,,,F,"Clorinda quiso visitar a esta novelista italiana quien dirige el diario Il Giorno, pero se encontraba de viaje en los Alpes",
-107,Olga Lodi,,,,,F,,
-108,Fran Minna Caner Schulrat ,,,,,F,"Presidenta de la sociedad radical Frauenwohl (""El bien de las mujeres"") en Alemania, Clorinda le regala un ejempar de Búcaro Americano. Díaz traducirá la información para la revista de Fran con el mismo nombre de la sociedad. Clorinda le pide la adhesión de Fran Mina como socia corresponsal",
-109,Elvira Castner,,,,,F,Directora de Gartenbauschule fur Frauen,
-110,Marcelle Tinayre ,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-111,Colette  Iver,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-112,Myriam Harry,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-113,Judith Cladel ,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-114,Matilde de Alanie,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-115,Juliette Adam,,,,,F,"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)",
-116,Esposos Alonso,,,,,F,Madrid,
-117,Don Francisco Flaquer,,,,,M,,
-118,Vicente Almela,,,,,M,Vicepresidente de la sección de Literatura del Ateneo de Madrid,
-119,Rafael Ruiz López,,,,,M,Novelista,
-120,Carlos Fernández Shaw,,,,,M,Presidente de la sección de Literatura del Ateneo de Madrid. ¿Clorinda escribirá una conferencia que será publicada el 1 de noviembre de 1908?,
-121,André Pando Valle,,,,,M,Hijo de Jesús Pando Valle,
-122,Celada,,,,,M,escritor,
-123,Rodriguez Sampedro,,,,,M,,
-124,Adela Cernudo,,,,,F,"Dueña del hotel donde se queda Clorinda, Hotel Embajadores en España",
-125,Segismundo Moret,,,,,M,Presidente del Ateneo y jefe del partido liberal en España,
-126,marquesa de la Laguna,,,,,F,,
-127,Sofía Casanova,,,,,F,,
-128,"marquesa de Requena, Gloria Laguna",,,,,F,,
-129,Condesa de Tenorio,,,,,F,,
-130,Antonio de Hoyos y Vinent,,,,,M,,
-131,Jacinto Benavente ,,,,,M,"Dramaturgo conocido en América, quien se excuso por no asistir a la fiesta madrileña en honor a Clorinda Matto",
-132,Pilar Contreras de Rodriguez,,,,,F,,
-133,Gálvez Holguín,,,,,M,,
-134,Juan Tomás Salvany,,,,,M,poeta,
-135,María T. de la Rigata,,,,,M,,
-136,María de los Dolores Ramona Isabel Álvarez de Burgos,,,,,M,Hija de Carmen de Burgos,
-137,esposos Gache,,,,,F/M,,
-138,los Tobar,,,,,F/M,,
-139,los Cidoncha,,,,,F/M,,
-140,Segismundo Moret,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-141,Salvador Rueda,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-142,Amado Nervo,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-143,Manuel de Tolosa Latour,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-144,Enrique Diez Canedo,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-145,Leopoldo Solier,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-146,Julio Milego,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-147,Miguel de la Cuesta,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-148,José Alsina,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-149,Gómez Hidalgo,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-150,Felipe Trigo,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-151,Ángel Pulido,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-152,José Fernández Bremón,,,,,M,"Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)",
-153,Emilia Serrano,,,,,F,Escribió América y sus mujeres,
-154,Numa Pompillo Llona,,,,,M,Asistente del Club Literario de Lima y las veladas de Gorriti?,
-155,Acisclo Villarán,,,,,M,"Escritor festivo que asistió a las veladas de Gorriti (América y sus mujeres, p. 156)",
-156,Manuela Villarán de Plascencia,,,,,F,"Escritora y hermana de Acisclo, y asistente a las veladas (América y sus mujeres, p. 156)",
-157,Gertrudis Gómez de Avellaneda,,,,,F,Escritora cubano-española,
-158,Carolina Freire de Jaimes,,,,,F,Escritora peruana,
-159,Lastenia Larriva de Llona,,,,,F,Escritora peruana,
-160,Manuela Antonia Márquez,,,,,F,Poeta peruana,
-161,Jesús Sánchez de Barreto,,,,,F,"Desconocido. Aparecen mencionado en América y sus mujeres, p. 164",
-162,Justa García Robledo,,,,,F,Poeta peruana,
-163,Carolina García de Barbaren,,,,,F,Asistente a las veladas de Gorriti,
-164,Rosa Siglos de Orbegozo,,,,,F,Escritora y asistente a las veladas de Gorriti,
-165,Lazo de Elespuru,,,,,F,Escritora y asistente a las veladas de Gorriti,
-166,Adriana Buendía ,,,,,F,Poeta arequipeña,
-167,María Natividad Cortes,,,,,F,Poeta peruana,
-168,Manuel Atanasio Fuentes,,,,,M,Mordaz literato limeño y fundó El Murciélago en  1845,
-169,Carlos Augusto Salaverry,,,,,M,Escritor peruano,
-170,José Arnaldo Márquez,,,,,M,"Escritor peruano, hermano de  Manuela Antonia Márquez ",
-171,Juan de Arona,,,,,M,"Poeta, periodista, Pedro Manuel Nicolás Paz Soldán y Unanue ",
-172,Manuel Nicolás Corpancho,,,,,M,Poeta ,
-173,Carlos Germán Amézaga,,,,,M,Asistente de la velada de Clorinda Matto,
-174,Emilio Germán Amézaga,,,,,M,Asistente de la velada de Clorinda Matto,
-175,Jorge Miguel Amézaga,,,,,M,Asistente de la velada de Clorinda Matto,
-176,Mariano Amézaga,,,,,M,Asistente de la velada de Clorinda Matto,
-177,Luis Benjamin Cisneros,,,,,M,Asistente de la velada de Clorinda Matto,
-178,Francisco Gerardo Chávez,,,,,M,Asistente de la velada de Clorinda Matto,
-179,Teobaldo Elías Corpancho,,,,,M,Asistente de la velada de Clorinda Matto,
-180,Hildebrando Fuentes,,,,,M,Asistente de la velada de Clorinda Matto,
-181,Abelardo Gamarra,,,,,M,Asistente de la velada de Clorinda Matto,
-182,Teresa González de Fanning,,,,,F,Asistente de la velada de Clorinda Matto,
-183,Manuel Mansilla,,,,,M,Asistente de la velada de Clorinda Matto,
-184,Luis Enrique Márquez,,,,,M,Asistente de la velada de Clorinda Matto,
-185,David Matto,,,,,M,Asistente de la velada de Clorinda Matto,
-186,Nicolás Palas,,,,,M,Asistente de la velada de Clorinda Matto,
-187,Angélica Palma,,,,,F,Asistente de la velada de Clorinda Matto,
-188,Ricardo Palma,,,,,M,Asistente de la velada de Clorinda Matto,
-189,Carlos Rey de Castro,,,,,M,Asistente de la velada de Clorinda Matto,
-190,Paulino Tirado,,,,,M,Asistente de la velada de Clorinda Matto,
-191,Josefina Villar,,,,,F,Asistente de la velada de Clorinda Matto,
-192,Manuel Adolfo García,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-193,Abel de la E. Delgado,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-194,Mercedes Belzu de Dorado,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-195,Juana Manuela Lazo de Eléspuru,,,,,F,Asistente de la velada de Juana Manuela Gorriti,
-196,José Joaquin Palma,,,,,M,Poesía leída en la velada de Juana Manuela Gorriti,
-197,Manuel F. Escobedo,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-198,Pedro A. Varela,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-199,Leonor Sauri,,,,,F,Trabajo leído en la velada de Juana Manuela Gorriti,
-200,Almanzor Paz Soldan,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-201,Arturo Morales Toledo,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-202,Juan Clemente Zenea,,,,,M,Trabajo leído en la velada de Juana Manuela Gorriti,
-203,Estevan C. Segura,,,,,M,Asistente de la velada de Juana Manuela Gorriti,
-204,Julio F. Sandoval,,,,,M,Asistente e hijo de Gorriti,
-205,Pastor S. Obligado,,,,,M,Escritor argentino asistente a la velada de Juana Manuela Gorriti,
-206,María Teresa O. de Obligado,,,,,F,Escritora argentina asistente a la velada de Juana Manuela Gorriti,
-207,María T. Santillana,,,,,F,Asistente a las veladas de Gorriti,
-208,María Luisa Montes,,,,,F,Asistente a las veladas de Gorriti,
-209,Benicio Alamos Gonzalez,,,,,M,Escritor chileno asistente a las veladas de Gorriti,
-210,Clemente Althaus,,,,,M,Mención en las veladas de Gorriti,
-211,Elvira Cerdeña,,,,,F,Asistente a las veladas de Gorriti,
-212,Dolores Chocano,,,,,F,Asistente a las veladas de Gorriti,
-213,Modesto Molina,,,,,M,Asistente a las veladas de Gorriti,
-214,Federico Guzman,,,,,M,Asistente a las veladas de Gorriti,
-215,El Recreo,Cuzco,1876,1877,,Revista,,
-216,Imprenta del Cuzco,Cuzco,,,,,,
-217,Colegio,,,,,,,
-218,El Ferrocarril,,,,,Revista,,
-219,La Equitativa,,1892,1895,,Imprenta,,
-220,Club Literario de Lima,Lima,,,,,,
-221,Ateneo de Lima,Lima,,,,Revista,,
-222,Ateneo de Buenos Aires,Buenos Aires,,,,,,
-223,Bacigalupi/ Tipografía de Bacigalupi y Cia,Lima,,,,Imprenta,"Con este sello, se publicó Mercedes Cabello",
-224,Imprenta y Librería El Universo de Carlos Prince,Lima,,,,Imprenta y Librería,Con este sello se publicó Blanca Sol de Mercedes Cabello,
-225,E. Sequi,,,,,Imprenta,"Con este sello se publicó El Conspirador de Mercedes Cabello, creo que el dueño es Emilio Sequí, italiano, también fue amigo de Piérola. Extraño. ""Los italianos en el Perú - Dialnet""",
-226,Imprenta Juan A. Alsina,Buenos Aires,,,,Imprenta,"Con este sello, Clorinda Matto publicó Boreales Miniaturas y porcelanas, Cuatro conferencias sobre la América del Sur",
-227,F. Sempere,Valencia/ España,,,,Editorial,"Con este sello, Clorinda Matto publicó Viaje de Recreo. Dueño el valenciano Francisco Sempere",
-228,Imprenta Europea,Buenos Aires,,,,Imprenta,"Con este sello, publicó Gorriti",
-229,Veladas literarias de Clorinda Matto,,,,,Velada,,
-230,Veladas literarias de Juana Manuela Gorriti,,,,,Velada,,
-231,Imp. de Torres Aguirre,,,,,Imprenta,"Con este sello, se publicó ""Sacrificio y recompensa"" de Mercedes Cabello",
-232,H. G. Rozas,,,,,Editorial,"Con este sello, se publicó Tradiciones cuzqueñas por primera vez",
-233,Francisco Ibañez,,,,,empresario,https://sites.google.com/site/arequipanetpe/personajes/biografias-i,
-234,Imprenta de Charles Thynne de Londres,,,,,Imprenta,Publicación en lengua inglesa de Aves sin nido (1908),
-235,Semanario del Pacífico,,,,,Diario,Publicación de Emilia Serrano,
+﻿id;Nombre;LugarNacimiento;FechaNacimiento;LugarMuerte;FechaDeMuerte;Naturaleza;Observacion
+1;Clorinda Matto de Turner;Cuzco;;;;F;
+2;Abraham Vizcarra;;;;;M;
+3;Daniel Mato;;;;;M;
+4;Pío B Mesa;;;;;M;
+5;Ricardo Villa;;;;;M;
+6;Nestor Castro;;;;;M;
+7;José Teodocio Rozas;;;;;M;
+8;Emilio Luna;;;;;M;
+9;Ramón Mato;;;;;M;
+10;Mariano Mato;;;;;M;
+11;Samuel Usandivaras;;;;;M;
+12;Ricardo Davalos y Lisón;Lima;;;;M;
+13;Isaac de Echave;;;;;M;
+14;Juan Cancio Luna;;;;;M;
+15;Melquiades Saldivar;;;;;M;
+16;Ladislao Calderón;;;;;M;
+17;Felipe S. Paredes;;;;;M;
+18;Rafael Paredes;;;;;M;
+19;Baltazar Valencia;;;;;M;
+20;Domingo Medina;;;;;M;
+21;Juan Manuela Gorriti;;;;;F;
+22;Mercedes Cabello de Carbonera;;;;;F;
+23;Alvina Escalante de Luna;;;;;F;
+24;María Ángela Enríquez de Vega;;;;;F;http://tania-gutierrez-samanez.blogspot.com/2006/12/trinidad-enrquez-primera-universitaria.html
+25;Ángela Carbonel;;;;;F;
+26;Juana Rosa de Amézaga;;;;;F;
+27;Trinidad María Enriquez;;;;;F;
+28;Juana de Dios Galdo;;;;;F;
+29;M. Delina Piérola;;;;;F;
+30;Francisca Necochea;;;;;F;
+31;M. Nieves Carrasco;;;;;F;
+32;M. Manuela Farfán;;;;;F;
+33;Felicitas Zavala;;;;;F;
+34;Dolores*;;;;;F;
+35;Carmen I. Valencia;;;;;F;
+36;Domingo Cárdenas;;;;;M;
+37;Mariano Medina;;;;;M;
+38;Eduardo Romainville;;;;;M;
+39;Abel A. Luna;;;;;M;
+40;Fabian F. Alvarez;;;;;M;
+41;Nicanor Cano;;;;;M;
+42;David D. Yepez;;;;;M;
+43;Jerónimo Zavala;;;;;M;
+44;Isaac Medina;;;;;M;
+45;José Olarte;;;;;M;
+46;Agustín Castro;;;;;M;
+47;Avelino Vizcarra;;;;;M;
+48;Nicolás Escalante;;;;;M;
+49;Daniel Olivera;;;;;M;
+50;Teófilo Luna;;;;;M;
+51;Arturo Yepez;;;;;M;
+52;Martín Álvarez(hijo);;;;;M;
+53;Manuel F. Minauro;;;;;M;
+54;Francisco Miranda y Bengoa;España;;;;M;
+55;Baldomere Cano;;;;;M;
+56;Juan José Botero Ruiz;Colombia;;;;M;
+57;Araminta*;;;;;F;
+58;Hurias;;;;;M;
+59;Manuel Antonio Zárate;;;;;M;
+60;Dario M. Pera;;;;;M;
+61;Ricardo Palma;;;;;M;
+62;José de Castro y Serrano;;;;;M;
+63;Coelho Netto;;;;;M;
+64;Alberto J. Gache;;;;;M;
+65;María Lucía;;;;;F;Esposa de Alberto J. Gache
+66;Roberto J. Payró;;;;;M;
+67;Carlos R. Tobar;;;;;M;
+68;Francisco Sempere;;;;;M;
+69;Francisco Cobos;;;;;M;Puente entre Clorinda y la sociedad madrileña
+70;Faustino Rodriguez Sampero;;;;;M;
+71;Jesús Pando y Valle;;;;;M;secretario general de la Unión Ibero-Americana de Madrid
+72;Emilia Pardo Bazán;;;;;F;
+73;Concepción Jimeno de Flaquer;;;;;F;Prometió presentarle por carta a amigas escritoras de Francia e Italia a Clorinda (p. 45, El viaje de recreo)
+74;Carmen de Burgos;;;;;F;
+75;Concepción Aleixandre;;;;;F;"""escritora científica"""
+76;Carmen Rojo;;;;;F;"Directora de la Escuela Normal y ""escritora brillante"""
+77;Magdalena S. Fuentes;;;;;F;profesora normal y novelista
+78;Melchora Herrero;;;;;F;escritora de nota, profesora normal y de comercio
+79;Carmen Blanco Trigueros;;;;;F;periodista de la redacción El Gobo
+80;Consuelo Álvarez;;;;;F;periodista de la redacción El País
+81;María Encarnación de la Brigada;;;;;F;Presidenta de la Asociación Huérfanos del Magisterio y profesora normal
+82;Luis Morote;;;;;M;Autor de Pasados por agua, Rebaño de almas , etc.
+83;Carolina Soto;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+84;María del Pilar Contreras de Rodriguez;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+85;Salomé Nuñez Topete;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+86;Asunción Vila;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+87;Clementina Ragel;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+88;Blanca de los Ríos de Lampérez;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+89;Matilde G. del Real;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+90;María de Echarri;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+91;Concepción Saíz;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+92;Vizcondesa de Barrantes;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+93;Marquesa de Ayerbe;;;;;F;Clorinda tiene los nombres y direcciones de estas escritoras anotadas según El viaje de recreo (p. 47)
+94;Marcos Pascual;;;;;M;Él recomendó a Clorinda desde Buenos Aires a sus amigos Saturnino Alonso Arto y Antonia Castro
+95;Saturnino Alonso Arto;;;;;M;
+96;Antonia Castro;;;;;F;
+97;Ángel Vega Enríquez;;;;;M;periodista peruano residente en Francia e hijo de amiga de Clorinda
+98;Mr. Thynne;;;;;M;editor de la versión inglesa de Aves sin nido
+99;mister E. M. Amphlett;;;;;M;vicedirector del diaro The Times
+100;Ecleston Square;;;;;M;Se escribieron por carta en Inglaterra
+101;miss Mary Possart;;;;;F;
+102;miss Pitman;;;;;F;
+103;Ándres Avelino Cáceres;;;;;M;Encuentro con Clorinda Matto en Francia e incitación para visitar Alemania
+104;Monseñor Samper;;;;;M;Comitiva papal en Italia
+105;Vincenzo Temístocles Moretti;;;;;M;Amigo diarista de Italia, redactor de La Vita, Clorinda Matto publica su conferencia en ese diario
+106;Matilde Serao;;;;;F;Clorinda quiso visitar a esta novelista italiana quien dirige el diario Il Giorno, pero se encontraba de viaje en los Alpes
+107;Olga Lodi;;;;;F;
+108;Fran Minna Caner Schulrat;;;;;F;"Presidenta de la sociedad radical Frauenwohl (""El bien de las mujeres"") en Alemania, Clorinda le regala un ejempar de Búcaro Americano. Díaz traducirá la información para la revista de Fran con el mismo nombre de la sociedad. Clorinda le pide la adhesión de Fran Mina como socia corresponsal"
+109;Elvira Castner;;;;;F;Directora de Gartenbauschule fur Frauen
+110;Marcelle Tinayre;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+111;Colette Iver;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+112;Myriam Harry;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+113;Judith Cladel;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+114;Matilde de Alanie;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+115;Juliette Adam;;;;;F;"Clorinda Matto afirma en Viaje de recreo que ""en estos momentos va a conocer a novelistas que llenan los folletines con flores de ingenio"" (Viaje de recreo, p.306)"
+116;Esposos Alonso;;;;;F;Madrid
+117;Don Francisco Flaquer;;;;;M;
+118;Vicente Almela;;;;;M;Vicepresidente de la sección de Literatura del Ateneo de Madrid
+119;Rafael Ruiz López;;;;;M;Novelista
+120;Carlos Fernández Shaw;;;;;M;Presidente de la sección de Literatura del Ateneo de Madrid. ¿Clorinda escribirá una conferencia que será publicada el 1 de noviembre de 1908?
+121;André Pando Valle;;;;;M;Hijo de Jesús Pando Valle
+122;Celada;;;;;M;escritor
+123;Rodriguez Sampedro;;;;;M;
+124;Adela Cernudo;;;;;F;Dueña del hotel donde se queda Clorinda, Hotel Embajadores en España
+125;Segismundo Moret;;;;;M;Presidente del Ateneo y jefe del partido liberal en España
+126;marquesa de la Laguna;;;;;F;
+127;Sofía Casanova;;;;;F;
+128;marquesa de Requena, Gloria Laguna;;;;;F;
+129;Condesa de Tenorio;;;;;F;
+130;Antonio de Hoyos y Vinent;;;;;M;
+131;Jacinto Benavente;;;;;M;Dramaturgo conocido en América, quien se excuso por no asistir a la fiesta madrileña en honor a Clorinda Matto
+132;Pilar Contreras de Rodriguez;;;;;F;
+133;Gálvez Holguín;;;;;M;romerista y diputado masón
+134;Juan Tomás Salvany;;;;;M;poeta
+135;María T. de la Rigata;;;;;M;
+136;María de los Dolores Ramona Isabel Álvarez de Burgos;;;;;M;Hija de Carmen de Burgos
+137;esposos Gache;;;;;F/M;
+138;los Tobar;;;;;F/M;
+139;los Cidoncha;;;;;F/M;
+140;Segismundo Moret;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+141;Salvador Rueda;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+142;Amado Nervo;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+143;Manuel de Tolosa Latour;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+144;Enrique Diez Canedo;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+145;Leopoldo Solier;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+146;Julio Milego;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+147;Miguel de la Cuesta;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+148;José Alsina;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+149;Gómez Hidalgo;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+150;Felipe Trigo;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+151;Ángel Pulido;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+152;José Fernández Bremón;;;;;M;Escribieron cartas y tarjetas de adhesión por no poder asistir a la reunión madrileña en honor a Clorinda Matto (Viaje de recreo, p.318)
+153;Emilia Serrano;;;;;F;Escribió América y sus mujeres
+154;Numa Pompillo Llona;;;;;M;Asistente del Club Literario de Lima y las veladas de Gorriti?
+155;Manuel José Acisclo Villarán Angulo;;;;;M;Escritor festivo que asistió a las veladas de Gorriti (América y sus mujeres, p. 156)
+156;Manuela Villarán de Plascencia;;;;;F;Escritora y hermana de Acisclo, y asistente a las veladas (América y sus mujeres, p. 156)
+157;Gertrudis Gómez de Avellaneda;;;;;F;Escritora cubano-española
+158;Carolina Freire de Jaimes;;;;;F;Escritora peruana
+159;Lastenia Larriva de Llona;;;;;F;Escritora peruana
+160;Manuela Antonia Márquez;;;;;F;Poeta peruana
+161;Jesús Sánchez de Barreto;;;;;F;Escritora aparece mencionada en América y sus mujeres, p. 164, aparece en Elvira García y García. Su seudónimo fue Dalmira
+162;Justa García Robledo;;;;;F;Poeta peruana
+163;Carolina García de Barbaren;;;;;F;Asistente a las veladas de Gorriti
+164;Rosa Siglos de Orbegozo;;;;;F;Escritora y asistente a las veladas de Gorriti
+165;Juana Manuela Lazo de Elespuru;;;;;F;Escritora y asistente a las veladas de Gorriti
+166;Adriana Buendía;;;;;F;Poeta arequipeña
+167;María Natividad Cortes;;;;;F;Poeta peruana
+168;Manuel Atanasio Fuentes;;;;;M;Mordaz literato limeño y fundó El Murciélago en 1845
+169;Carlos Augusto Salaverry;;;;;M;Escritor peruano
+170;José Arnaldo Márquez;;;;;M;Escritor peruano, hermano de Manuela Antonia Márquez
+171;Juan de Arona;;;;;M;Poeta, periodista, Pedro Manuel Nicolás Paz Soldán y Unanue
+172;Manuel Nicolás Corpancho;;;;;M;Poeta
+173;Carlos Germán Amézaga;;;;;M;Asistente de la velada de Clorinda Matto
+174;Emilio Germán Amézaga;;;;;M;Asistente de la velada de Clorinda Matto
+175;Jorge Miguel Amézaga;;;;;M;Asistente de la velada de Clorinda Matto
+176;Mariano Amézaga;;;;;M;Asistente de la velada de Clorinda Matto
+177;Luis Benjamin Cisneros;;;;;M;Asistente de la velada de Clorinda Matto
+178;Francisco Gerardo Chávez;;;;;M;Asistente de la velada de Clorinda Matto
+179;Teobaldo Elías Corpancho;;;;;M;Asistente de la velada de Clorinda Matto
+180;Hildebrando Fuentes;;;;;M;Asistente de la velada de Clorinda Matto
+181;Abelardo Gamarra;;;;;M;Asistente de la velada de Clorinda Matto
+182;Teresa González de Fanning;;;;;F;Asistente de la velada de Clorinda Matto
+183;Manuel Mansilla;;;;;M;Asistente de la velada de Clorinda Matto
+184;Luis Enrique Márquez;;;;;M;Asistente de la velada de Clorinda Matto
+185;David Matto;;;;;M;Asistente de la velada de Clorinda Matto
+186;Nicolás Palas;;;;;M;Asistente de la velada de Clorinda Matto
+187;Angélica Palma;;;;;F;Asistente de la velada de Clorinda Matto
+188;Ricardo Palma;;;;;M;Asistente de la velada de Clorinda Matto
+189;Carlos Rey de Castro;;;;;M;Asistente de la velada de Clorinda Matto
+190;Paulino Tirado;;;;;M;Asistente de la velada de Clorinda Matto
+191;Josefina Villar;;;;;F;Asistente de la velada de Clorinda Matto
+192;Manuel Adolfo García;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+193;Abel de la E. Delgado;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+194;Mercedes Belzu de Dorado;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+195;Juana Manuela Lazo de Eléspuru;;;;;F;Asistente de la velada de Juana Manuela Gorriti
+196;José Joaquin Palma;;;;;M;Poesía leída en la velada de Juana Manuela Gorriti
+197;Manuel F. Escobedo;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+198;Pedro A. Varela;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+199;Leonor Sauri;;;;;F;Trabajo leído en la velada de Juana Manuela Gorriti
+200;Almanzor Paz Soldan;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+201;Arturo Morales Toledo;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+202;Juan Clemente Zenea;;;;;M;Trabajo leído en la velada de Juana Manuela Gorriti
+203;Estevan C. Segura;;;;;M;Asistente de la velada de Juana Manuela Gorriti
+204;Julio F. Sandoval;;;;;M;Asistente e hijo de Gorriti
+205;Pastor S. Obligado;;;;;M;Escritor argentino asistente a la velada de Juana Manuela Gorriti
+206;María Teresa O. de Obligado;;;;;F;Escritora argentina asistente a la velada de Juana Manuela Gorriti
+207;María T. Santillana;;;;;F;Asistente a las veladas de Gorriti
+208;María Luisa Montes;;;;;F;Asistente a las veladas de Gorriti
+209;Benicio Alamos Gonzalez;;;;;M;Escritor chileno asistente a las veladas de Gorriti
+210;Clemente Althaus;;;;;M;Mención en las veladas de Gorriti
+211;Elvira Cerdeña;;;;;F;Asistente a las veladas de Gorriti
+212;Dolores Chocano;;;;;F;Asistente a las veladas de Gorriti
+213;Modesto Molina;;;;;M;Asistente a las veladas de Gorriti
+214;Federico Guzman;;;;;M;Asistente a las veladas de Gorriti
+215;El Recreo;Cuzco;1876;1877;;Revista;
+216;Imprenta del Cuzco;Cuzco;;;;;
+217;Colegio;;;;;;
+218;El Ferrocarril;;;;;Revista;
+219;La Equitativa;;1892;1895;;Imprenta;
+220;Club Literario de Lima;Lima;;;;;
+221;Ateneo de Lima;Lima;;;;Revista;
+222;Ateneo de Buenos Aires;Buenos Aires;;;;;
+223;Bacigalupi/ Tipografía de Bacigalupi y Cia;Lima;;;;Imprenta;Con este sello, se publicó Mercedes Cabello
+224;Imprenta y Librería El Universo de Carlos Prince;Lima;;;;Imprenta y Librería;Con este sello se publicó Blanca Sol de Mercedes Cabello
+225;E. Sequi;;;;;Imprenta;"Con este sello se publicó El Conspirador de Mercedes Cabello, creo que el dueño es Emilio Sequí, italiano, también fue amigo de Piérola. Extraño. ""Los italianos en el Perú - Dialnet"""
+226;Imprenta Juan A. Alsina;Buenos Aires;;;;Imprenta;Con este sello, Clorinda Matto publicó Boreales Miniaturas y porcelanas, Cuatro conferencias sobre la América del Sur
+227;F. Sempere;Valencia/ España;;;;Editorial;Con este sello, Clorinda Matto publicó Viaje de Recreo. Dueño el valenciano Francisco Sempere
+228;Imprenta Europea;Buenos Aires;;;;Imprenta;Con este sello, publicó Gorriti
+229;Veladas literarias de Clorinda Matto;;;;;Velada;
+230;Veladas literarias de Juana Manuela Gorriti;;;;;Velada;
+231;Imp. de Torres Aguirre;;;;;Imprenta;"Con este sello, se publicó ""Sacrificio y recompensa"" de Mercedes Cabello"
+232;H. G. Rozas;;;;;Editorial;Con este sello, se publicó Tradiciones cuzqueñas por primera vez
+233;Francisco Ibañez;;;;;empresario;https://sites.google.com/site/arequipanetpe/personajes/biografias-i
+234;Imprenta de Charles Thynne de Londres;;;;;Imprenta;Publicación en lengua inglesa de Aves sin nido (1908)
+235;Semanario del Pacífico;;;;;Diario;Publicación de Emilia Serrano
+236;M, Barrenechea;;;;;M;Escribió una carta para la introducción de El Album de Juana Rosa de Amézaga
+237;Agustín Obín y Charún;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+238;H. García;;;;;M;Escribio en El Album de Juana Rosa de Amézaga
+239;Antonio José Restrepo;;;;;M;Escritor colombiano, escribió en el Album de Amézaga
+240;José Antonio Roca y Boloña;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+241;María Eleonora Bonhovich;;;;;F;Escribió en El Album de Juana Rosa de Amézaga
+242;Lina Dore;;;;;F;Escribió en El Album de Juana Rosa de Amézaga
+243;Simon Camacho;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+244;Luis Roca y Boloña;;;;;M;Escribió en El Album de Juana Rosa de Amézaga, alcalde de Lima, escritor y empresario político
+245;Ignacio Roca y Boloña;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+246;Víctor González Mantilla Osorio;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+247;J. Benavides y Valdivia;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+248;V. Holguín;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+249;Amalia Puga de Losada;;;;;F;Escribió en El Album de Juana Rosa de Amézaga
+250;María Elvisa Prado y Rivas;;;;;F;Escribió en El Album de Juana Rosa de Amézaga
+251;Alejandro Deustúa;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+252;Juana Barrenechea y Raigada;;;;;F;Escribió en El Album de Juana Rosa de Amézaga. Mamá de Raúl Porras Barrenechea
+253;Domingo Rivero;;;;;M;Escribió en El Album de Juana Rosa de Amézaga
+254;Simón Martinez Izquierdo;;;;;M;Escribió en El Album de Juana Rosa de Amézaga, fue colombiano
+255;Hernán Velarde;;;;;M;Escribió en El Album de Juana Rosa de Amézaga. Ministro del Interior y formó parte del Círculo Literario de Lima y El Ateneo
+256;Germán Leguía y Martínez;;;;;M;Escribió en El Album de Juana Rosa de Amézaga. Discipulo de Prada. Escritor. Su primo hermano fue Augusto B. Leguía. Miembro del Club Literario, presidido por MGP
+257;Dolores Sucre;;;;;F;Escribió en El Album de Juana Rosa de Amézaga. Escritora ecuatoriana
+258;Miguel Zúñiga Freira;;;;;F;Escribió en El Album de Juana Rosa de Amézaga.
+259;Mariella de Quintanilla;;;;;F;Escribió en El Album de Juana Rosa de Amézaga.
+260;Paulino Fuentes Castro;;;;;M;Quiso colaborar con Clorinda Matto en Arequipa para crear vida literaria, también fue secretario de Andrés Avelino Cáceres y vicepresidente
+261;Clemente Palma;;;;;M;Mención de Matto al hijo de Palma, le mandó un saludo
+262;Vicente Riva Palacios;;;;;M;Escritor y político mexicano
+263;Rafael María Arízaga;;;;;M;Escritor ecuatoriano que escribió una reseña de las Tradiciones Cuzqueñas
+264;José Antonio de Lavalle;;;;;M;Fundador y director de La Revista de Lima, el Club Literario y El Ateneo de Lima, diplomático y hombre de letras
+265;César Goicochea;;;;;M;Integrante de la Real Academia Española en Perú y presidente de la sección literaria en la revista El Ateneo de Lima
+266;Eleazar Boloña;;;;;M;Clorinda quería invitarlo a las veladas
+267;Julio Sandoval;;;;;M;Hijo de Juana Manuela Gorriti
+268;José Antonio Wilde;;;;;M;Escritor y diplomático argentino
+269;Margarita Práxedes Muñoz;;;;;F;"Escritora peruana y primera bachiller en Ciencias por la UNMSM, vivió al igual que Clorinda en Buenos Aires. Existen estudios sobre su relación (""Redes literaarias transnacionales"" de Vinces)"
+270;Eugenio Cambaceres;;;;;M;Escritor naturalista argentino
+271;Camilo Lemonnier;;;;;M;Escritor naturalista en Bélgica
+272;Émile Zola;;;;;M;Escritor naturalista en Francia
+273;Louis Marie Alphonse Daudet​;;;;;M;Escritor natiralista en Francia
+274;Leopoldo Díaz;;;;;M;Poeta argentino
+275;Prieto Gonzáles;;;;;M;
+276;Carlos Manuel Vega Belgrano y Belgrano;;;;;M;Periodista y editor de El tiempo de Argentina
+277;Bartolomé Mitre;;;;;M;Posiblemente traductor y crítico literario argentino (Denegri y Peluffo, 2020, p. 119). Uruguayo residente en Argentina, fue director de La Nación de Argentina
+278;Adela Castell;;;;;F;Ensayista uruguaya
+279;Emilio Gutierrez de Quintanilla;;;;;M;Escribió el prólogo de Aves sin nido de Matto
+280;Rubén Darío;;;;;M;Poeta nicaragüense modernista
+281;Paul-Francois Groussac;;;;;M;Literato francés radicado en Argentina
+282;Arístides Rojas;;;;;M;naturalista venezolano
+283;Próspero Pereira Gamba;Colombia;;;;M;poeta y educador colombiano
+284;El Céfiro;Perú;15/06/1862;Perú;21/12/1862;Semanario;periódico semanal y literario https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/0
+285;José María Samper;Colombia;;;;M;escritor y periodista colombiano y esposo de Soledad Acosta de Samper
+286;José María Vergara y Vergara;Colombia;;;;M;escritor colombiano, cuyo seudónimo es J. M. V.
+287;Soledad Acosta de Samper;Colombia;;;;F;escritora colombiana
+288;Trinidad Fernández;Perú;;;;M;poeta arequipeño: https://poetasdearequipa.blogspot.com/2013/05/trinidad-fernandez.html 
+289;Gabriel*;;;;;M;Seudónimo
+290;J. M. Q.*;;;;;-;Seudónimo
+291;Silveria Espinosa de Rendón;;;;;F;Primera poeta y periodista colombiana
+292;Juan Francisco de Larriva;Perú;;;;M;escritor o poeta romántico peruano
+293;Numalea*;;;;;-;Colaborado(a) del Céfiro
+294;A. L. G. *;;;;;F;Colaboradora de El Céfiro
+295;C. D. *;;;;;-;Colaborado(a) del Céfiro
+296;Lascario*;;;;;-;Colaborado(a) del Céfiro
+297;A. de B.;;;;;-;Seudónimo en El Céfiro
+298;Benjamin Pereira Gamba;;;;;M;poeta colombiano
+299;Rita Grama;;;;;F;colaboradora de El Céfiro
+300;Emma*;;;;;-;Seudónimo en El Céfiro
+301;Benjamín Vicuña Mackenna;Chile;;;;M;Escritor chileno e historiador
+302;Luis Rodet;;;;;M;Excapitán de infantería
+303;Moleonte*;;;;;-;Seudónimo en El Céfiro
+304;Mercedes Galdo de Velásquez;;;;;F;colaboradora de El Céfiro
+305;Fernando Simón Bolivar Tinoco;Venezuela;;;;M;escritor venezolano y hermano de Simón Bolivar
+306;José Joaquín Borda;Colombia;;;;M;Seudónimo de colaborador(a) del Céfiro
+307;Juan de Dios Restrepo;Colombia;;;;M;Escritor, político colombiano
+308;Agripina Casimira de los Dolores Samper Agudelo de Ancizar;;;;;F;Poeta colombiana
+309;Clotilde Pérez;Perú;;;;F;Alumna del colegio de la señora Doña María B. de Palomino en el Callao
+310;Mercedes de Castillo Guía;Perú;;;;F;colaboradora de El Céfiro
+311;Miguel Riofrío;Ecuador;;;;M;escritor y abogado ecuatoriano y autor de la primera novela ecuatoriana
+312;F. de Struque;;;;;-;Seudónimo de colaborador(a) del Céfiro
+313;Jorge Benier;;;;;-;colaborador(a) de El Céfiro
+314;T. P. Andía;;;;;-;colaborador(a) de El Céfiro
+315;Mariano Andrés Bolognesi Cervantes;;;;;M;Militar, pedagogo y compositor, hermano de Francisco Bolognesi
+316;R. C. *;;;;;-;Seudónimo de colaborador(a) del Céfiro
+317;Amaro*;;;;;-;Seudónimo de colaborador(a) del Céfiro
+318;J. C. H.*;;;;;-;Seudónimo de colaborador(a) del Céfiro
+319;B. Y .C.*;;;;;-;Seudónimo de colaborador(a) del Céfiro
+320;Sancho Serrano;;;;;-;Desconocido. Colaborador de El Céfiro
+321;Benito Laso de la Vega;Perú;;;;M;periodista, político y poeta peruano
+322;Enrique G. Casanave;;;;;M;Colaborador de El Céfiro
+323;E. Lillo*;;;;;-;Seudónimo de colaborador(a) del Céfiro
+324;Juan Arguedas Fernández Prada;Perú;;;;M;Abogado y poeta peruano, participó en la Bella Limeña
+325;Delio*;;;;;-;Seudónimo de colaborador(a) del Céfiro
+326;Enriqueta Flores de Accsus;;;;;F;colaboradora de El Céfiro

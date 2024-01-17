@@ -1,0 +1,320 @@
+﻿codigo;from;to;version;fecha;tipo_relacion;descripcion_relacion;fuente;formato-fuente;link;tipo-red
+R1;215;1;Año 1 N° 1;8/02/1876;Directora;;El Recreo (1890);APA;;
+R2;215;2;Año 1 N° 1;8/02/1876;Director;;;;;
+R3;215;3;Año 1 N° 1;8/02/1876;Secretario;;;;;
+R4;215;4;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R5;215;5;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R6;215;6;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R7;215;7;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R8;215;8;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R9;215;9;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R10;215;10;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R11;215;11;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R12;215;12;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R13;215;13;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R14;215;14;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R15;215;15;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R16;215;16;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R17;215;17;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R18;215;18;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R19;215;19;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R20;215;20;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R21;215;21;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R22;215;22;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R23;215;23;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R24;215;24;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R25;215;25;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R26;215;26;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R27;215;27;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R28;215;28;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R29;215;29;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R30;215;30;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R31;215;31;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R32;215;32;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R33;215;33;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R34;215;34;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R35;215;35;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R36;215;36;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R37;215;37;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R38;215;38;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R39;215;39;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R40;215;40;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R41;215;41;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R42;215;42;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R43;215;43;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R44;215;44;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R45;215;45;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R46;215;46;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R47;215;47;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R48;215;48;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R49;215;49;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R50;215;50;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R51;215;51;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R52;215;52;Año 1 N° 1;8/02/1876;Colaborador;;;;;
+R53;215;216;Año 1 N° 1;8/02/1876;Imprenta;;;;;
+R54;216;53;Año 1 N° 1;;Dueño;;;;;
+R55;218;1;Año 1 N° 1;;Colaborador;;;;;
+R56;215;54;Año 1 N° 2;18/02/1876;Republicado;Republicación post morten;;;;
+R57;215;55;Año 1 N° 2;18/02/1876;Colaborador;;;;;
+R58;215;56;Año 1 N° 2;18/02/1876;Colaborador;;;;;
+R59;215;57;Año 1 N° 3;28/02/1876;Colaborador;;;;;
+R60;215;58;Año 1 N° 3;28/02/1876;Colaborador;;;;;
+R61;215;59;Año 1 N° 3;28/02/1876;Republicado;Republicado por discurso;;;;
+R62;215;60;Año 1 N° 4;15/03/1876;Colaborador;;;;;
+R63;215;61;Año 1 N° 5;27/03/1876;Colaborador;;;;;
+R64;215;62;Año 1 N° 6;06/04/1876;Republicado;Republicado de libro;Pagina 43;;;
+R65;230;153;;;Asistente;América y sus mujeres, p. 146;;;;
+R66;230;21;;;Anfitriona;América y sus mujeres;;;;
+R67;153;22;;;Amistad;América y sus mujeres, p. 153;;;;
+R68;153;21;;;Amistad;América y sus mujeres, p.146;;;;
+R69;220;153;;;Colaborador extraordinario;América y sus mujeres, p.153;;;;
+R70;220;154;;;Colaborador;América y sus mujeres, p. 154;;;;
+R71;230;156;;;Colaborador;América y sus mujeres, p. 156;;;;
+R72;230;155;;;Colaborador;América y sus mujeres, p. 156;;;;
+R73;155;156;;;Familia;Hermanos;;;;
+R74;235;156;;;Colaboradora;América y sus mujeres, p. 156;;;;
+R75;153;72;;;Mención;América y sus mujeres, p. 157;;;;
+R76;153;157;;;Mención;América y sus mujeres, p. 157;;;;
+R77;153;61;;;Mención;América y sus mujeres, p. 158;;;;
+R78;153;158;;;Trato;América y sus mujeres, p. 160;;;;
+R79;153;1;;;Mención;América y sus mujeres, p. 162;;;;
+R80;153;159;;;Mención;América y sus mujeres, p. 162;;;;
+R81;153;154;;;Mención;América y sus mujeres, p. 163;;;;
+R82;153;160;;;Mención;América y sus mujeres, p. 163;;;;
+R83;160;170;;;Familia;Hermanos;;;;
+R84;153;161;;;Mención;América y sus mujeres, p.164;;;;
+R85;153;162;;;Mención;América y sus mujeres, p.164;;;;
+R86;153;163;;;Mención;América y sus mujeres, p.164;;;;
+R87;153;164;;;Mención;América y sus mujeres, p.164;;;;
+R88;153;165;;;Mención;América y sus mujeres, p.164;;;;
+R89;153;166;;;Mención;América y sus mujeres, p.164;;;;
+R90;153;167;;;Mención;América y sus mujeres, p.164;;;;
+R91;153;168;;;Trato;América y sus mujeres, p.166;;;;
+R92;153;169;;;Mención;América y sus mujeres, p.167;;;;
+R93;153;170;;;Mención;América y sus mujeres, p.167;;;;
+R94;153;171;;;Mención;América y sus mujeres, p.167;;;;
+R95;153;172;;;Mención;América y sus mujeres, p.168;;;;
+R96;229;173;;12/11/1887;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R97;229;174;;02/03/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R98;229;175;;02/06/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R99;229;176;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R100;229;177;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R101;229;178;;02/06/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R102;229;179;;30/01/1891;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R103;229;180;;17/11/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R104;229;181;;02/03/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R105;229;182;;17/11/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R106;229;183;;17/11/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R107;229;184;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R108;229;185;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R109;229;186;;02/06/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R110;229;187;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R111;229;188;;12/11/1887;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R112;229;189;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R113;229;190;;12/11/1887;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R114;229;191;;;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R115;229;22;;02/06/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R116;229;26;;17/11/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R117;229;159;;02/06/1888;Asistente;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R118;229;1;;12/11/1887;Anfitriona;;Las veladas literarias de Clorinda Matto en la Lima de la posguerra (1887-1891) de Evelyn Sotomayor (2017);;;praesentia
+R119;230;21;;19/07/1876;Anfitriona;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R120;230;154;;26/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R121;230;155;;02/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R122;230;163;;16/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R123;230;164;;16/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R124;230;165;;09/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R125;230;156;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R126;230;22;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R127;230;192;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R128;230;166;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R129;230;193;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R130;230;179;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R131;230;194;;19/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R132;230;158;;26/07/1876;Participación por carta;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R133;230;195;;26/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R134;230;170;;26/07/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R135;230;196;;26/07/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R136;230;188;;26/07/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R137;230;25;;02/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R138;230;197;;02/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R139;230;198;;02/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R140;230;199;;02/08/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R141;230;169;;09/08/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R142;230;201;;09/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R143;230;202;;09/08/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R144;230;162;;16/08/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R145;230;203;;16/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R146;230;204;;16/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R147;230;205;;26/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R148;230;206;;26/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R149;230;182;;30/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R150;230;207;;30/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R151;230;208;;30/08/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R152;230;209;;06/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R153;230;210;;13/09/1876;Mención o trabajo leído;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R154;230;211;;13/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R155;230;212;;13/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R156;230;213;;21/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R157;230;200;;21/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R158;230;214;;21/09/1876;Asistente;;Veladas literarias de Lima, 1876-1877 de Juana Manuela Gorriti;;https://archive.org/details/veladasliteraria00gorr/page/n49/mode/2up ;praesentia
+R159;26;236;;27/11/1885;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 1;;;absentia
+R160;26;237;;11/01/1886;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 2-3;;;absentia
+R161;26;238;;27/05/1886;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 4-6;;;absentia
+R162;26;177;;1886;Amistad;;El Albúm de Juana Rosa de Amézaga, p.7;;;absentia
+R163;26;239;;10/12/1898;Amistad;;El Albúm de Juana Rosa de Amézaga, pp.9-10;;;absentia
+R164;26;240;;12/11/1889;Amistad;;El Albúm de Juana Rosa de Amézaga, pp.12-15;;;absentia
+R165;26;241;;04/09/1898;Amistad;;El Albúm de Juana Rosa de Amézaga, sin número y después de la p. 15;;;absentia
+R166;26;242;;/05/1892;Amistad;;El Albúm de Juana Rosa de Amézaga, p.16;;;absentia
+R167;26;243;;/01/1898;Amistad;;El Albúm de Juana Rosa de Amézaga, pp.17-19;;;absentia
+R168;26;173;;/01/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 20;;;absentia
+R169;26;244;;7/06/1900;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 25;;;absentia
+R170;26;245;;/09/1900;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 28-31;;;absentia
+R171;26;1;;10/10/1888;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 32;;;absentia
+R172;26;61;;03/03/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 33;;;absentia
+R173;26;246;;15/12/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 36;;;absentia
+R174;26;189;;sin fecha;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 38;;;absentia
+R175;26;247;;20/10/1888;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 39;;;absentia
+R176;26;248;;1889;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 40-43;;;absentia
+R177;26;249;;1892;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 50-53;;;absentia
+R178;26;250;;20/11/1888;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 56-57;;;absentia
+R179;26;251;;26/06/1901;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 60;;;absentia
+R180;26;252;;20/10/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 61;;;absentia
+R181;26;165;;1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 79;;;absentia
+R182;26;253;;15/02/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 85-86;;;absentia
+R183;26;254;;09/05/1887;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 103;;;absentia
+R184;26;255;;16/02/1889;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 107-108;;;absentia
+R185;26;159;;4/07/1902;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 109-112;;;absentia
+R186;26;256;;10/03/1893;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 142;;;absentia
+R187;26;179;;Sin fecha;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 145;;;absentia
+R188;26;257;;/11/1891;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 146;;;absentia
+R189;26;174;;Sin fecha;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 158;;;absentia
+R190;26;154;;/08/1908;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 165;;;absentia
+R191;26;258;;20/10/1888;Amistad;;El Albúm de Juana Rosa de Amézaga, pp. 167-168;;;absentia
+R192;26;259;;08/09/1888;Amistad;;El Albúm de Juana Rosa de Amézaga, p. 173;;;absentia
+R193;1;61;;05/12/1883;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 57);;;absentia
+R194;1;61;;26/01/1884;Amistad;Tinta;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 63);;;absentia
+R195;1;61;;22/04/1884;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 65);;;absentia
+R196;1;61;;13/06/1884;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 67);;;absentia
+R197;1;61;;08/07/1884;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 71);;;absentia
+R198;1;61;;18/07/1884;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 73);;;absentia
+R199;1;61;;12/08/1884;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 76);;;absentia
+R200;1;61;;01/01/1885;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 78);;;absentia
+R201;1;61;;04/04/1885;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 80);;;absentia
+R202;1;61;;18/12/1885;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 81);;;absentia
+R203;1;61;;08/01/1886;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 84);;;absentia
+R204;1;61;;05/02/1886;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 87);;;absentia
+R205;1;61;;18/03/1886;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 90);;;absentia
+R206;1;61;;17/06/1886;Amistad;su casa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 92);;;absentia
+R207;1;61;;07/07/1886;Amistad;C/U;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 94);;;absentia
+R208;1;61;;02/12/1886;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 96);;;absentia
+R209;1;61;;20/01/1887;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 99);;;absentia
+R210;1;61;;17/02/1887;Amistad;Arequipa;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 100);;;absentia
+R211;1;61;;03/06/1887;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 106);;;absentia
+R212;1;61;;21/09/1887;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 107);;;absentia
+R213;1;61;;10/11/1887;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 108);;;absentia
+R214;1;61;;12/04/1888;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 109);;;absentia
+R215;1;61;;25/04/1888;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 110);;;absentia
+R216;1;61;;22/01/1889;Amistad;S/C;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 111);;;absentia
+R217;1;61;;09/01/1893;Amistad;Lima;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 112);;;absentia
+R218;1;61;;09/06/1895;Amistad;Buenos Aires;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 116);;;absentia
+R219;1;61;;18/11/1895;Amistad;Buenos Aires;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 122);;;absentia
+R220;1;61;;01/01/1896;Amistad;Buenos Aires;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 126);;;absentia
+R221;1;61;;25/05/1896;Amistad;Buenos Aires;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 129);;;absentia
+R222;1;61;;sin lugar y sin fecha;Amistad;Sin lugar y sin fecha;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 133);;;absentia
+R223;1;61;;17/07/1897;Amistad;Buenos Aires;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 134);;;absentia
+R224;1;61;;;Mentoría;;;;;
+R225;1;181;;05/12/1883;intención de colaboración;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 60);;;absentia
+R226;1;254;;05/12/1883;intención de colaboración;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 60);;;absentia
+R227;1;260;;30/12/1899;intención de colaboración;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 60);;;absentia
+R228;1;187;;13/06/1884;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 67);;;absentia
+R229;1;261;;30/12/1899;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 67);;;absentia
+R230;21;1;;18/07/1884;Mentoría;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 74);;;absentia
+R231;1;103;;01/01/1885;Amistad;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 78);;;absentia
+R232;61;1;;01/01/1885;patrocinio literario;;Ricardo Palma escribe un prólogo para Tradiciones cuzqueñas de Clorinda Matto;;;absentia
+R233;233;1;;05/02/1886;Imprenta;;Clorinda se queja de que todo lo que vendió se lo lleva el impresor Ibañez;;;
+R234;1;22;;18/03/1886;Amistad;;Clorinda le cuenta a Palma que se quedará en la casa de Mercedes Cabello. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 90);;;praesentia
+R235;61;262;;17/06/1886;Amistad;;Envió las obras de Matto al ecuatoriano y mexicano a pedido de Matto. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 92);;;absentia
+R236;61;263;;17/06/1886;Amistad;;Envió las obras de Matto al ecuatoriano y mexicano a pedido de Matto. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 92);;;absentia
+R237;1;262;;17/06/1886;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 92);;;absentia
+R238;1;263;;17/06/1886;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 92);;;absentia
+R239;1;264;;07/07/1886;posible patrocinio literario;;Clorinda le manda una carta por intermedio de Palma para que escriba el prólogo del segundo tomo de Tradiciones Cuzqueñas;;;absentia
+R240;72;182;;1893;patrocinio literario;;Escribe el prólogo de Lucecitas de Teresa González de Fanning por encargo de Ricardo Palma;;;absentia
+R241;72;61;;1893;Amistad;;En el prólogo a Lucecitas, se presenta la alusión a una relación más cercana entre Bazán y Palma;;;absentia
+R242;1;182;;17/02/1887;Amistad;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 102);;;absentia
+R243;61;182;;17/02/1887;Amistad;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 102);;;absentia
+R244;1;22;;17/02/1887;Competencia profesional;;Clorinda está celosa de que El Ateneo apoye la publicación de la novela de Mercedes, y la institución no le haya comprado ningún ejemplar de sus Tradiciones Cuzqueñas. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 104);;;absentia
+R245;1;265;;10/11/1887;Mención;;Clorinda pidió a Ricardo Palma que lo invitara a su velada literaria;;;absentia
+R246;182;187;;12/04/1888;Mentora;;Teresa González es profesora de Angélica Palma;;;absentia
+R247;1;26;;12/04/1888;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 109);;;absentia
+R248;1;163;;12/04/1888;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 109);;;absentia
+R249;1;266;;25/04/1888;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 110);;;absentia
+R250;1;171;;09/01/1893;Mención;;Clorinda le habla de Juan de Arona a Ricardo Palma. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 112);;;absentia
+R251;171;1;;-;Rivalidad profesional;;"La llamó ""tea Clorenda"" y ""marimacho"" según Beatriz Guardia en ""La escritura femenina en el Perú del siglo XIX""";;;absentia
+R252;171;22;;-;Rivalidad profesional;;Publicó contra Mercedes Cabello en el Almanaque La Broma y El Chispazo;;;absentia
+R253;1;267;;09/01/1893;Amistad;;Cenaron juntos después de la muerte de Gorriti y visitó a Clorinda. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 115);;;praesentia
+R254;1;249;;09/06/1895;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 116);;;
+R255;22;270;;1888;Mención;;Mercedes Cabello los menciona en el prólogo de su novela Blanca Sol (Vincens, 2019);;;
+R256;22;271;;1888;Mención;;Mercedes Cabello los menciona en el prólogo de su novela Blanca Sol (Vincens, 2019);;;
+R257;22;272;;1888;Mención;;Mercedes Cabello los menciona en el prólogo de su novela Blanca Sol (Vincens, 2019);;;
+R258;22;273;;1888;Mención;;Mercedes Cabello los menciona en el prólogo de su novela Blanca Sol (Vincens, 2019);;;
+R259;21;158;;;Colaboración creativa;;Fundan El Album;;;
+R260;21;158;;;Amistad;;Tienen un proyecto común;;;
+R261;21;158;;;Rivalidad;;Freire se aleja de Gorriti y ya no participa en las veladas de Gorriti. Gorriti comenta esta enemistad en las cartas a Ricardo Palma;;;
+R262;1;278;;;Amistad;;Matto la considera su amiga y la visitó según la carta de 9 de junio de 1895 dirigida a Palma (p. 120);;;praesentia
+R263;1;274;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 119);;;
+R264;1;275;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 119);;;
+R265;1;276;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 119);;;
+R266;1;277;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 119);;;
+R267;1;279;;;patrocinio literario;;Escribió el prólogo de Aves sin nido y lo elogió por la temática, aunque criticó la estructura. Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 120);;;
+R268;1;280;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 121);;;
+R269;1;281;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 124);;;
+R270;1;282;;;Mención;;Cartas de Clorinda Matto a Ricardo Palma, 1883-1897, edición de Denegri y Peluffo (2020, p. 133);;;
+R271;1;158;;;Amistad;;Amistad entre Clorinda y Freire en su estadía en Argentina (Vincens, 2022, p. 379);;;
+R272;1;66;;;relación profesional colaborativa;;"""Clorinda Matto en la Cosmópolis"" de Sarah Moody (2022, p.330)";;;
+R273;284;283;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/0;;;
+R274;284;285;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/0;;;
+R275;285;287;;;Esposo;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/1;;;
+R276;284;288;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/2;;;
+R277;284;21;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/3;;;
+R278;284;170;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/4;;;
+R279;170;160;;-;Hermano;;-;;;
+R280;284;289;Año 1 N° 1;15/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/44;;;
+R281;284;290;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/45;;;
+R283;284;292;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/47;;;
+R284;284;293;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/48;;;
+R285;284;294;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/49;;;
+R286;284;295;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/50;;;
+R287;284;296;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/51;;;
+R288;284;61;Año 1 N° 3;29/06/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/52;;;
+R289;284;291;Año 1 N° 5;13/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/53;;;
+R290;284;297;Año 1 N° 5;13/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/54;;;
+R291;284;298;Año 1 N° 6;20/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/55;;;
+R292;298;283;;;Hermano;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/56;;;
+R293;284;299;Año 1 N° 6;20/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/57;;;
+R294;284;300;Año 1 N° 6;20/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/58;;;
+R295;284;301;Año 1 N° 7;27/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/59;;;
+R296;284;155;Año 1 N° 7;27/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/60;;;
+R297;284;302;Año 1 N° 7;27/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/61;;;
+R298;284;303;Año 1 N° 7;27/07/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/62;;;
+R299;284;304;Año 1 N° 8;24/08/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/63;;;
+R300;284;161;Año 1 N° 8;24/08/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/64;;;
+R301;284;305;Año 1 N° 10;07/09/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/65;;;
+R302;284;306;Año 1 N° 11;14/09/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/66;;;
+R303;284;307;Año 1 N° 11;14/09/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/67;;;
+R304;284;308;Año 1 N° 12;12/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/68;;;
+R305;284;310;Año 1 N° 12;12/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/69;;;
+R306;284;311;Año 1 N° 13;19/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/70;;;
+R307;284;312;Año 1 N° 13;19/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/71;;;
+R308;284;313;Año 1 N° 13;19/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/72;;;
+R309;284;314;Año 1 N° 13;19/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/73;;;
+R310;284;315;Año 1 N° 14;26/10/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/74;;;
+R311;284;316;Año 1 N° 15;02/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/75;;;
+R312;284;316;Año 1 N° 15;02/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/76;;;
+R313;284;316;Año 1 N° 15;02/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/77;;;
+R314;284;316;Año 1 N° 15;02/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/78;;;
+R315;284;321;Año 1 N° 16;09/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/79;;;
+R316;284;322;Año 1 N° 17;16/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/80;;;
+R317;284;323;Año 1 N° 18;23/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/81;;;
+R318;284;324;Año 1 N° 18;23/11/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/82;;;
+R319;284;325;Año 1 N° 19;21/12/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/83;;;
+R320;284;326;Año 1 N° 19;21/12/1862;Colaborador;;https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/88971/84;;;
